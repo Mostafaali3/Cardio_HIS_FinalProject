@@ -133,4 +133,5 @@ This project is licensed under the MIT License. -->
 
 ## Contact
 For any inquiries, reach out via [mostafaalisarhan@gmail.com](mailto:mostafaalisarhan@gmail.com).
-
+## Acknowledgments
+These projects was supervised by Dr. Ahmed Hesham and eng. abdullhah darwish as part of the Databases course at Cairo University Faculty of Engineering.
